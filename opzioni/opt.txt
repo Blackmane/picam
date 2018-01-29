@@ -1,0 +1,15 @@
+Exposure mode: auto
+ISO: 0
+Meter mode: average
+AWB mode: auto
+Image effect: none
+Color effects: 0
+Shutter speed: 0
+Brightness: 50
+Contrast: 0
+Saturation: 0
+Sharpness: 0
+Image denoise: False
+Horizontal flip: False
+Vertical flip: False
+Rotation: 270
