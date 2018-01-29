@@ -1,5 +1,7 @@
 # picam
 
+![Il progetto montato](picam/20171002_230302.jpg)
+
 Picam è un progetto sviluppato per l'esame di Programmazione di Interfacce, presso l'Università di Pisa.
 Il progetto, presentato a febbraio 2016, consiste in una interfaccia grafica che permetta di gestire una fotocamera a stampa istantanea.
 
